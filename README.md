@@ -8,6 +8,7 @@ Auto complete based on N-Gram Model using Hadoop MapReduce in Java.
 * Build Langauge Model to calculate and sort the probability via Hadoop MapReduce.
 * Output Language Model into MySQL.
 * Utilized PHP, Ajax, JQuery to build a simple web demo.
+![dataflow](web/image/DataFlow.png)
 
 ## Demo
 ![demo](web/image/demo.png)
